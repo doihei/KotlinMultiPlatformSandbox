@@ -1,3 +1,5 @@
+package com.example.kotlinmultiplatformsandbox
+
 import kotlinx.datetime.*
 
 fun daysUntilNewYear(): Int {
